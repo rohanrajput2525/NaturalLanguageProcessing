@@ -1,1 +1,1 @@
-# NaturalLanguageProcessing
+# NLP/inshorts_SentimentalAnalysis
